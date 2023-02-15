@@ -1,0 +1,16 @@
+body {
+    background-color:powderblue;
+}
+.main {
+    text-align:center;   
+}
+.GFG {
+    color:#0000ff;
+    font-size:7-px;
+    font-weight:bold;
+}
+#geeks {
+    color:blueviolet;
+    font-style:italic;
+    font-size:30px;
+}
